@@ -123,7 +123,7 @@
         <enable_wind>0</enable_wind>
         <kinematic>0</kinematic>
       </link>
-      <pose>-3.56548 1.38112 0 0 -0 0</pose>
+      <pose>-2.12008 0.939886 0 0 -0 0</pose>
     </model>
     <model name='Construction Barrel'>
       <link name='link'>
@@ -170,28 +170,28 @@
         <enable_wind>0</enable_wind>
         <kinematic>0</kinematic>
       </link>
-      <pose>0.407872 3.15501 0 0 -0 0</pose>
+      <pose>1.82062 1.69931 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>381 946000000</sim_time>
-      <real_time>394 547346333</real_time>
-      <wall_time>1743133039 354037512</wall_time>
-      <iterations>381946</iterations>
+      <sim_time>130 38000000</sim_time>
+      <real_time>140 884259150</real_time>
+      <wall_time>1743188812 495242327</wall_time>
+      <iterations>130038</iterations>
       <model name='Construction Barrel'>
-        <pose>2.05003 3.15371 -1e-06 5e-06 -3e-06 -0.004049</pose>
+        <pose>1.82061 1.69931 -1e-06 3e-06 -2e-06 -2e-06</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>2.05003 3.15371 -1e-06 5e-06 -3e-06 -0.004049</pose>
+          <pose>1.82061 1.69931 -1e-06 3e-06 -2e-06 -2e-06</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0.258721 -5.0194 1.02247 -0.017137 0.653672 0.005636</acceleration>
-          <wrench>129.361 -2509.7 511.236 0 -0 0</wrench>
+          <acceleration>5.7256 -8.18842 8.25013 -1.44513 1.12853 3.02725</acceleration>
+          <wrench>2862.8 -4094.21 4125.06 0 -0 0</wrench>
         </link>
       </model>
       <model name='ambulance'>
-        <pose>-3.56548 1.38112 0 0 -0 0</pose>
+        <pose>-2.12008 0.939886 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-3.56548 1.38112 0 0 -0 0</pose>
+          <pose>-2.12008 0.939886 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -213,7 +213,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>3.06507 -7.44276 3.42823 0 0.243643 1.95219</pose>
+        <pose>-4.53873 -9.90605 5.19955 0 0.419643 1.24819</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
